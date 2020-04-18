@@ -8,7 +8,7 @@ void Basic_Level()
 {
 	// В заданой строке вместо первого символа поставить пробел.
 	cout << "Basic level:" << endl;
-	char str[50] = "NBea voice not an echo!";
+	char str[50] = "NBe a voice not an echo!";
 	char rezult[50];
 	cout << str << endl;
 	const char* p = str;
